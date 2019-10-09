@@ -16,7 +16,7 @@ Since Google introduced the Material design philosophy I have seen quite a few a
 # Gradle
 --------
 
-[![jitpack][4]][5]
+[![](https://jitpack.io/v/MFori/MaterialShowcaseView.svg)](https://jitpack.io/#MFori/MaterialShowcaseView)
 
 Add the jitpack repo to your your project's build.gradle at the end of repositories [Why?](#why-jitpack)
 
